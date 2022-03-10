@@ -50,7 +50,7 @@
 
 7. Membuat Judul Paragraf Pertama Menggunakan Tag H1 dan align center (Rata tengah)
 
-''' html
+``` html
 <!-- Judul Paragraf Pertama -->
 <h1 align="center">Belajar Dasar HTML</h1>
 ```
