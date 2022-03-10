@@ -7,7 +7,7 @@
 # Soal
 ![1](https://user-images.githubusercontent.com/73010098/157592162-105797da-bf71-4226-be9c-0acd5e41f609.png)
 
-#### BELAJAR DASAR HTML
+# BELAJAR DASAR HTML
 
 1. Membuka Aplikasi (Sublime Text)
 
@@ -39,6 +39,9 @@
 ``` html
 <title>Tag HTML Dasar</title>
 ```
+#### OUTPUT
+
+![6 (2)](https://user-images.githubusercontent.com/73010098/157596180-a99e8ca1-baf6-4806-a9d6-7d4d207a0af9.jpg)
 
 6. Menambahkan Tag Navigasi
 
@@ -47,6 +50,10 @@
 <a href="halaman1.html">Halaman 1</a>
 <a href="https://github.com/SitiLatifah">Link github</a>
 ```
+#### OUTPUT
+
+![8](https://user-images.githubusercontent.com/73010098/157596238-00ee80cb-230d-42c6-8490-f562c5a77387.png)
+
 
 7. Membuat Judul Paragraf Pertama Menggunakan Tag H1 dan align center (Rata tengah)
 
@@ -54,6 +61,10 @@
 <!-- Judul Paragraf Pertama -->
 <h1 align="center">Belajar Dasar HTML</h1>
 ```
+#### OUTPUT
+
+![10](https://user-images.githubusercontent.com/73010098/157596295-a3a056c1-6c6c-4850-8bb0-f9f036ce840d.png)
+
 
 8. Membuat Paragraf pertama menggunakan tag align center dan memformat teks menggunakan tag font color, bold, dan underline
 
@@ -63,6 +74,10 @@
 <u>Universitas Pelita Bangsa</u>. Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana<br>
 dalam rangka mengenal tag-tag dasar HTML.</p>
 ```
+#### OUTPUT
+
+![12](https://user-images.githubusercontent.com/73010098/157596337-ca7a86da-f3cc-4770-90ee-d53f5b00bf07.png)
+
 
 9. Membuat judul paragraf kedua menggunakan tag H2 dan Align left (rata Kiri)
 
@@ -70,6 +85,9 @@ dalam rangka mengenal tag-tag dasar HTML.</p>
 <!-- Judul Paragraf kedua -->
 <h2 align="left">Tag Dasar HTML</h2>
 ```
+#### OUTPUT
+
+![14](https://user-images.githubusercontent.com/73010098/157596372-0233518d-9be6-40d8-83e1-191b9981ff1b.png)
 
 10. Membuat Paragraf Kedua dengan Align Left
 
@@ -78,6 +96,10 @@ dalam rangka mengenal tag-tag dasar HTML.</p>
 <p align="left"> Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang saling mendukung<br>
 sehingga menjadi satu kesatuan. paragraf dibuat dengan menggunakan tag dasar HTML.</p>
 ```
+#### OUTPUT
+
+![15](https://user-images.githubusercontent.com/73010098/157596507-ec979cfb-c62c-42c1-a1dc-41585c685545.png)
+
 
 11. Menyisipkan Atau menambahkan gambar
 
@@ -87,8 +109,9 @@ sehingga menjadi satu kesatuan. paragraf dibuat dengan menggunakan tag dasar HTM
 <center>
     <img src="picture1.png" alt="logo_upb">
 ```
+#### OUTPUT
 
-
+![17](https://user-images.githubusercontent.com/73010098/157596547-4c6f6db9-c353-4a50-abaa-368c84860cba.png)
 
 
 
