@@ -76,7 +76,7 @@ dalam rangka mengenal tag-tag dasar HTML.</p>
 ```
 #### OUTPUT
 
-![12](https://user-images.githubusercontent.com/73010098/157596337-ca7a86da-f3cc-4770-90ee-d53f5b00bf07.png)
+![11](https://user-images.githubusercontent.com/73010098/157596663-3d5d2055-fdc0-489b-a7a1-430ed3f298f5.png)
 
 
 9. Membuat judul paragraf kedua menggunakan tag H2 dan Align left (rata Kiri)
@@ -87,7 +87,7 @@ dalam rangka mengenal tag-tag dasar HTML.</p>
 ```
 #### OUTPUT
 
-![14](https://user-images.githubusercontent.com/73010098/157596372-0233518d-9be6-40d8-83e1-191b9981ff1b.png)
+![13](https://user-images.githubusercontent.com/73010098/157596732-674241e7-d1c9-4f9e-a20b-a223d31e625b.png)
 
 10. Membuat Paragraf Kedua dengan Align Left
 
