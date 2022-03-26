@@ -118,21 +118,26 @@ sehingga menjadi satu kesatuan. paragraf dibuat dengan menggunakan tag dasar HTM
 
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah 
 error ketika terjadi kesalahan penulisan tag?<br>
+
 Jawab   : Pada saat menggunakan kode tidak terdapat error jika menggunakan kode dengan benar, jika terjadi typo ataupun kurangnya huruf atau tanda maka terjadi error pada kode yang dibuat.
 
 2. Apa perbedaan dari tag **p** dengan tag **br**, berikan penjelasannya!<br>
+
 Jawab   : Tag  **p** Tag ini berfungsi untuk memberi perintah paragraf baru pada halaman html, biasa digunakan untuk membuat sebuah paragraph pada HTML.
           Tag **br** dituliskan pada kerangka html untuk memberikan perintah "break line", artinya meng intruksikan baris baru.
           
 3. Apa perbedaan atribut title dan alt pada tag **img**, berikan penjelasannya!<br>
+
 Jawab   : a.  Alt text atau text alternatif adalah atribut yang ditambahkan ke tag gambar dalam HTML. Teks ini muncul di dalam wadah gambar ketika gambar tidak dapat                ditampilkan. Ini membantu mesin pencari memahami apa isi dari gambar tersebut. Text alternatif juga sangat membantu dalam kasus gambar yang tidak                      ditemukan pada halaman atau gambar rusak.<br>
           b. Title image adalah atribut lain yang dapat ditambahkan ke tag gambar dalam HTML. Title image ini digunakan untuk memberikan judul untuk gambar Anda. Text              yang Anda masukkan di dalam tag judul tidak akan ditampilkan kepada pengguna ketika gambar tidak dapat ditampilkan. Sebaliknya, tag judul gambar ini                    ditampilkan saat Anda menyorot gambar dengan mouse.<br>
    
-4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar 
+4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar
+ 
 proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!<br>
 Jawab   : Lebih baik diisi karena pembuat program dapat mengatur ukuran gambar secara panjang dan lebar gambar, dan tidak semua gambar pada html mempunyai ukuran yang           langsung ideal untuk ditampilkan terkadang gambar terlalu besar atau terlalu kecil, maka dari itu lebih baik menggunakan height dan weight pada gambar/logo             di HTML.<br>
 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, 
 _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?<br>
+
 Jawab   : a. <br>
             **a href="link" target="_self">penamaan link/a** <br>
             untuk membuka link di frame link itu berada. ini merupakan setelan dasar link jika pada elemen link tidak diberi atribut target <br>
