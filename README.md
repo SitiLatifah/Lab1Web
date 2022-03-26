@@ -118,46 +118,33 @@ sehingga menjadi satu kesatuan. paragraf dibuat dengan menggunakan tag dasar HTM
 
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah 
 error ketika terjadi kesalahan penulisan tag?
+Jawab   : Pada saat menggunakan kode tidak terdapat error jika menggunakan kode dengan benar, jika terjadi typo ataupun kurangnya huruf atau tanda maka terjadi error pada kode yang dibuat.
+
 2. Apa perbedaan dari tag **p** dengan tag **br**, berikan penjelasannya!
+Jawab   : Tag  **p** Tag ini berfungsi untuk memberi perintah paragraf baru pada halaman html, biasa digunakan untuk membuat sebuah paragraph pada HTML.
+          Tag **br** dituliskan pada kerangka html untuk memberikan perintah "break line", artinya meng intruksikan baris baru.
+          
 3. Apa perbedaan atribut title dan alt pada tag **img**, berikan penjelasannya!
+Jawab   : a.  Alt text atau text alternatif adalah atribut yang ditambahkan ke tag gambar dalam HTML. Teks ini muncul di dalam wadah gambar ketika gambar tidak dapat                ditampilkan. Ini membantu mesin pencari memahami apa isi dari gambar tersebut. Text alternatif juga sangat membantu dalam kasus gambar yang tidak                      ditemukan pada halaman atau gambar rusak.
+          b. Title image adalah atribut lain yang dapat ditambahkan ke tag gambar dalam HTML. Title image ini digunakan untuk memberikan judul untuk gambar Anda. Text              yang Anda masukkan di dalam tag judul tidak akan ditampilkan kepada pengguna ketika gambar tidak dapat ditampilkan. Sebaliknya, tag judul gambar ini                    ditampilkan saat Anda menyorot gambar dengan mouse.
+   
 4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar 
 proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
+Jawab   : Lebih baik diisi karena pembuat program dapat mengatur ukuran gambar secara panjang dan lebar gambar, dan tidak semua gambar pada html mempunyai ukuran yang           langsung ideal untuk ditampilkan terkadang gambar terlalu besar atau terlalu kecil, maka dari itu lebih baik menggunakan height dan weight pada gambar/logo             di HTML.
 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, 
 _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
-
-###### JAWAB!
-1. Pada saat menggunakan kode tidak terdapat error jika menggunakan kode dengan benar, jika terjadi typo ataupun kurangnya huruf atau tanda maka terjadi error pada kode yang dibuat.
-   
-2. Tag  **p** Tag ini berfungsi untuk memberi perintah paragraf baru pada halaman html, biasa digunakan untuk membuat sebuah paragraph pada HTML.
-Tag **br** dituliskan pada kerangka html untuk memberikan perintah "break line", artinya meng intruksikan baris baru.
-   
-3. a.  Alt text atau text alternatif adalah atribut yang ditambahkan ke tag gambar dalam HTML. Teks ini muncul di dalam wadah gambar ketika gambar tidak dapat ditampilkan. Ini membantu mesin pencari memahami apa isi dari gambar tersebut. Text alternatif juga sangat membantu dalam kasus gambar yang tidak ditemukan pada halaman atau gambar rusak.
-   b. Title image adalah atribut lain yang dapat ditambahkan ke tag gambar dalam HTML. Title image ini digunakan untuk memberikan judul untuk gambar Anda. Text yang Anda masukkan di dalam tag judul tidak akan ditampilkan kepada pengguna ketika gambar tidak dapat ditampilkan. Sebaliknya, tag judul gambar ini ditampilkan saat Anda menyorot gambar dengan mouse.
-   
-4. Lebih baik diisi karena pembuat program dapat mengatur ukuran gambar secara panjang dan lebar gambar, dan tidak semua gambar pada html mempunyai ukuran yang langsung ideal untuk ditampilkan terkadang gambar terlalu besar atau terlalu kecil, maka dari itu lebih baik menggunakan height dan weight pada gambar/logo di HTML.
-   
-5. a. 
- **a href="link" target="_self">penamaan link/a** 
-untuk membuka link di frame link itu berada. ini merupakan setelan dasar link jika pada elemen link tidak diberi atribut target 
-
-
- b. 
- **a href="link" target="_blank">penamaan link/a** 
-untuk membuka link di tab baru 
-
- c. 
- **a href="link" target="_parent">penamaan link/a** 
-untuk membuka link di frame yang satu tingkat di atas frame link tersebut berada. secara simple-nya begini : jika di website(1) di dalamnya ada website(2) lalu di website(2) ini ada link dan kita klik, maka link akan terbuka di website(1) 
-
- d.. 
- **a href="link" target="_top">penamaan link/a** 
-untuk membuka link di frame paling atas (paling luar). secara simpel-nya : jika di website(1) di dalamnya ada website(2) lalu di website(2) di dalamnya ada website (3) lalu di website (3) ini ada link dan kita klik, maka link akan terbuka di website(1)
-
-
-
-
-
-
+Jawab   : a. 
+            **a href="link" target="_self">penamaan link/a** 
+            untuk membuka link di frame link itu berada. ini merupakan setelan dasar link jika pada elemen link tidak diberi atribut target 
+         b. 
+            **a href="link" target="_blank">penamaan link/a** 
+            untuk membuka link di tab baru 
+         c. 
+            **a href="link" target="_parent">penamaan link/a** 
+            untuk membuka link di frame yang satu tingkat di atas frame link tersebut berada. secara simple-nya begini : jika di website(1) di dalamnya ada website(2)             lalu di website(2) ini ada link dan kita klik, maka link akan terbuka di website(1) 
+        d.
+            **a href="link" target="_top">penamaan link/a** 
+            untuk membuka link di frame paling atas (paling luar). secara simpel-nya : jika di website(1) di dalamnya ada website(2) lalu di website(2) di dalamnya ada             website (3) lalu di website (3) ini ada link dan kita klik, maka link akan terbuka di website(1)
 
 
 
