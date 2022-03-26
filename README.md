@@ -1,4 +1,4 @@
-# Lab1Web1
+# Lab1Web
 **Nama	   	: Siti Latifah** <br>
 **Nim	  	  : 312010321** <br>
 **Kelas	  	: TI.20.A2** <br>
